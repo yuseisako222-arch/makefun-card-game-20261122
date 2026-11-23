@@ -1,0 +1,22 @@
+[
+  {
+    "name": "1-court.jpg",
+    "query": "?shot=play",
+    "caption": "Ember's five spells face the Ivy Warden's four concealed cards at the Court of the Two Orders."
+  },
+  {
+    "name": "2-title.jpg",
+    "query": "?shot=title",
+    "caption": "Ember & Ivy at the Court of the Two Orders."
+  },
+  {
+    "name": "3-victory.jpg",
+    "query": "?shot=win",
+    "caption": "The court awards Ember its laurels."
+  },
+  {
+    "name": "4-defeat.jpg",
+    "query": "?shot=loss",
+    "caption": "The Ivy Warden stands and the court keeps its laurels."
+  }
+]
